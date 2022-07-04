@@ -366,3 +366,4 @@ The24K
     "fichas"
   ]
 }
+{"name":"1inch","timestamp":"2022-04-06T22:19:09+00:00","version":{"major":145,"minor":0,"patch":0},"keywords":["1inch","default","list"],"tokens":[{"address":"0x006BeA43Baa3f7A6f765F14f10A1a1b08334EF45","chainId":1,"name":"Stox","symbol":"STX","decimals":18,"logoURI":"https://tokens.1inch.io/0x006bea43baa3f7a6f765f14f10a1a1b08334ef45.png"},{"address":"0x0327112423F3A68efdF1fcF402F6c5CB9f7C33fd","chainId":1,"name":"PieDAOBTC++","symbol":"BTC","decimals":18,"logoURI":"https://tokens.1inch.io/0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd.png"},
